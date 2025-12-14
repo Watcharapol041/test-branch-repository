@@ -1,4 +1,4 @@
-function isPrime(num) {
+ isPrime(num) {
   if (num <= 1) {
     return false;
   }
