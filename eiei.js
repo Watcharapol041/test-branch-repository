@@ -15,3 +15,5 @@
 
 console.log(isPrime(2)); // true
 console.log(isPrime(4)); // false
+
+Hello eiei
